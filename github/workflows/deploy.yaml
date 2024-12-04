@@ -1,6 +1,6 @@
 name: Implementar contenido estático a Pages
 
-  on:
+on:
   push:
     branches: ['main']
 
